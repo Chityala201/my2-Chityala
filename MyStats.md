@@ -28,5 +28,19 @@ The following tables contains differnt types of sports, benifits of playing foll
 
 > If you want to shine like a sun, first burn like a sun - ***A. P. J. Abdul Kalam***
 
+---
+
+### Code Fencing
+
+> Here's a relevant SVG question from Stack Overflow. Please click here to open it [SVG Link](https://stackoverflow.com/questions/72297012/im-trying-to-reference-an-image-in-a-svg-code-that-is-in-the-same-folder-that)
+
+```
+<svg>
+  <ellipse class="ground" .../>
+  <path class="kiwi" .../>
+</svg>
+
+```
+Click the below link to find above code snippet from css-tricks: [https://css-tricks.com/using-svg/](https://css-tricks.com/using-svg/)
 
 
