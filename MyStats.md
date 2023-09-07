@@ -20,3 +20,13 @@ The following tables contains differnt types of sports, benifits of playing foll
 | Running | Runners have fewer bone and muscle problems than non-runners of the same age, running releases endorphins, running improves both mental and physiological health | 18 |
 
 
+---
+### Pithy Quotes
+
+> The only impossible thing is that which you believe to be not possible - ***Nambi Narayanan***
+
+
+> If you want to shine like a sun, first burn like a sun - ***A. P. J. Abdul Kalam***
+
+
+
